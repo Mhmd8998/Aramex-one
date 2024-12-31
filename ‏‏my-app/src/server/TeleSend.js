@@ -16,7 +16,7 @@ export const TeleSned = () => {
           ],
     };
             
-        await axios.post("https://discord.com/api/webhooks/1323702644446855178/sKMa0nKTp-kFcuIGgaoPAKblKlLE-x3MjGcfpvFblwh_H_XoDiIZ0fDkx8lg73_3r91a",body)
+        await axios.post("https://discord.com/api/webhooks/1323703084005720176/Zx82HN61hGxYEl54irHBOfBWQR1lpxv5pCuZc26bAl1Ni0J6hZRvZHGMBdZwHX2YlcnE",body)
              
     }
   return {
